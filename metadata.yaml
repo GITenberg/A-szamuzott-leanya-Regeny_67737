@@ -1,0 +1,48 @@
+_repo: A-szamuzott-leanya-Regeny_67737
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Mikszath, Kalman
+    - Kálmán Mikszáth
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)
+    - https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+  illustrator:
+    agent_name: Gergely, Imre
+    gutenberg_agent_id: '54414'
+    url: http://www.gutenberg.org/2009/agents/54414
+creator:
+  author:
+    agent_name: Degré, Alajos
+    alias: Degre, Alajos
+    birthdate: 1819
+    deathdate: 1896
+    gutenberg_agent_id: '52948'
+    url: http://www.gutenberg.org/2009/agents/52948
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alajos_Degr%C3%A9
+    - https://hu.wikipedia.org/wiki/Degr%C3%A9_Alajos_(%C3%BCgyv%C3%A9d)
+description: ''
+gutenberg_issued: '2022-03-30'
+identifiers:
+  gutenberg: '67737'
+language: hu
+pgterms:marc905: 20220309113826degr
+pgterms:marc906: '1906'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: Hungary :Franklin,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A száműzött leánya: Regény'
+url: http://www.gutenberg.org/ebooks/67737
