@@ -17,6 +17,9 @@ contributor:
     agent_name: Gergely, Imre
     gutenberg_agent_id: '54414'
     url: http://www.gutenberg.org/2009/agents/54414
+covers:
+- cover_type: archival
+  image_path: 67737-h/images/cover.jpg
 creator:
   author:
     agent_name: Degré, Alajos
@@ -29,6 +32,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alajos_Degr%C3%A9
     - https://hu.wikipedia.org/wiki/Degr%C3%A9_Alajos_(%C3%BCgyv%C3%A9d)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67737#A-szamuzott-leanya-Regeny
 gutenberg_issued: '2022-03-30'
 identifiers:
   gutenberg: '67737'
